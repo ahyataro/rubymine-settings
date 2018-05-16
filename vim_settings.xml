@@ -1,0 +1,2479 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/game_data_exchanger/yami/league.rb" timestamp="1517299866182">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="105" column="88" />
+        <mark key="^" line="105" column="88" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/ope/game_setting/v2_announcements_controller_spec.rb" timestamp="1517305882954">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/setup_company_aws.rake" timestamp="1512712816098">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_countries.schema" timestamp="1517984489283">
+        <mark key="[" line="8" column="164" />
+        <mark key="]" line="8" column="128" />
+        <mark key="." line="8" column="128" />
+        <mark key="^" line="8" column="128" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_sandbox/amazon_s3_client.yml.erb" timestamp="1519133367920">
+        <mark key="[" line="3" column="77" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/script/join_league.rb" timestamp="1505898537575">
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/game_data_exchanger/v2_announcement_refactoring.rb" timestamp="1518949318501">
+        <mark key="[" line="146" column="43" />
+        <mark key="]" line="146" column="35" />
+        <mark key="^" line="146" column="35" />
+        <mark key="." line="146" column="35" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/amazon_s3_client.yml.erb" timestamp="1519133328347">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_asset_revisions/index.html.haml" timestamp="1519359154358">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="95" column="28" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/sakasho-settings/config/development/application.yml" timestamp="1524736100736">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/battle_scenario.rb" timestamp="1510573014557">
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="104" column="57" />
+        <mark key="^" line="102" column="31" />
+        <mark key="." line="104" column="57" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/game_inventories_controller.rb" timestamp="1507203996390">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="87" column="14" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_asset_revisions_controller.rb" timestamp="1525917278744">
+        <mark key="'" line="240" column="0" />
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="36" column="39" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/assets/index.html.haml" timestamp="1512130994313">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/sqs_queue.yml" timestamp="1519211793974">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_announcement_import_histories_controller.rb" timestamp="1517830144040">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="124" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="2" column="104" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/renderer_templates/seikimatsu_days/announcement/heading_template.txt" timestamp="1519155839448">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/ope/game_setting/data_migration_managements_controller_spec.rb" timestamp="1501766092335">
+        <mark key="[" line="246" column="81" />
+        <mark key="]" line="246" column="79" />
+        <mark key="." line="246" column="79" />
+        <mark key="^" line="246" column="79" />
+      </file>
+      <file name="$USER_HOME$/gems/shoryuken/lib/shoryuken/runner.rb" timestamp="1514201595327">
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcement/uploader.rb" timestamp="1518942673467">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/development/sqs.yml.erb" timestamp="1518936574039">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_service/amazon_s3_client.yml.erb" timestamp="1519133360420">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/bne_accounts/index.html.haml" timestamp="1503390571190">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/bne_accounts/_confirm_detail.html.haml" timestamp="1503390743040">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/gmtool_api/v2/asset_deployment_states/state.jbuilder" timestamp="1522754814996">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/free_texts/_free_texts.html.haml" timestamp="1503389116178">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/locales/translation_ja_activemodel.yml" timestamp="1523613029289">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="210" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/shard/v2_player_announcement_category_read_histories.schema" timestamp="1517372138556">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="41" />
+        <mark key="^" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/box_product_w.rb" timestamp="1505374481669">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="36" column="76" />
+        <mark key="^" line="36" column="76" />
+        <mark key="." line="36" column="76" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_deployment_result.rb" timestamp="1516782331298">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/config/google_drive_settings.yml" timestamp="1504247341760">
+        <mark key="[" line="1" column="89" />
+        <mark key="]" line="1" column="89" />
+        <mark key="^" line="1" column="89" />
+        <mark key="." line="1" column="89" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-package_verification/pkg_spec/pkg_spec.rb" timestamp="1522399360196">
+        <mark key="[" line="102" column="24" />
+        <mark key="]" line="102" column="24" />
+        <mark key="^" line="33" column="33" />
+        <mark key="." line="102" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/models/v2_announcement.rb" timestamp="1520316264468">
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="13" />
+        <mark key="." line="62" column="13" />
+        <mark key="^" line="62" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/google_drive.rb" timestamp="1504241520634">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/zip_manager.rb" timestamp="1525855716717">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/unicorn.yml" timestamp="1506347903278">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/GameList.rb" timestamp="1507290781424">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="69" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/remove_expired_message_queues.rake" timestamp="1513059537575">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/bbs/v1/guilds/delete_guild_data.rb" timestamp="1511183148407">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/s3.yml" timestamp="1519187188332">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/s3.yml" timestamp="1519187227094">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sns_linkage_settings.yml" timestamp="1516947318342">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/development_sandbox/game_developer_aws_client.yml" timestamp="1518004143159">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/sandbox_asset_revisions/index.html.haml" timestamp="1503387507055">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/vgr_mo_deadlock_verification/Gemfile" timestamp="1503648583054">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/yami/league.rb" timestamp="1507015703571">
+        <mark key="[" line="3" column="73" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/my_script/achievement_files/sample0.json" timestamp="1506407862946">
+        <mark key="[" line="0" column="125" />
+        <mark key="]" line="0" column="125" />
+        <mark key="^" line="0" column="125" />
+        <mark key="." line="0" column="125" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_sandbox/sqs.yml.erb" timestamp="1518779406519">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/sns_linkage_settings.yml.erb" timestamp="1516947436403">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/s3.yml" timestamp="1519187220599">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/zip_file_manager.rb" timestamp="1525858050775">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/amazon_s3_client.yml.erb" timestamp="1519133637587">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/information/index.html.haml" timestamp="1519038714677">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/www_asset_deployment.yml" timestamp="1518495025395">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_content_images.schema" timestamp="1517984530072">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="61" />
+        <mark key="." line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/layouts/seikimatsu_days.html.haml" timestamp="1518702924552">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/NewDataMigration.rb" timestamp="1510824099535">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/vgr_mo_deadlock_verification/.gitignore" timestamp="1503648809565">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/sqs.yml.erb" timestamp="1519310694711">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_announcement_import_histories/index.html.haml" timestamp="1519359270759">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/script/vgr_mo_dealock_test_daemon.rb" timestamp="1505204545419">
+        <mark key="[" line="40" column="42" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/login_bonuses/new.html.haml" timestamp="1523014529610">
+        <mark key="[" line="5" column="58" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/box_products/_box_product.html.haml" timestamp="1506415577525">
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/sandbox_asset_revisions/show.html.haml" timestamp="1503388322955">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/asset_deployment.yml" timestamp="1519132637939">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/customized_information_controller.rb" timestamp="1524553679200">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_deploy_error.rb" timestamp="1513238931968">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/sqs_queue.yml" timestamp="1519211784839">
+        <mark key="[" line="7" column="43" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/layouts/seikimatsu_days_layout.html.haml" timestamp="1519270466798">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/locales/views/ja.yml" timestamp="1519049263393">
+        <mark key="[" line="329" column="16" />
+        <mark key="]" line="329" column="16" />
+        <mark key="." line="329" column="16" />
+        <mark key="^" line="329" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/www_asset_deployment_job.rb" timestamp="1519210712511">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/company_specific_settings.yml" timestamp="1519615895917">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/script/announcement_api_measurement.rb" timestamp="1525143014884">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/questionnaire.rake" timestamp="1503973794901">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/asset_util/environment.rb" timestamp="1504768581475">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/gmtool_api/v2/asset_revisions/update.jbuilder" timestamp="1525161486380">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/constants.rb" timestamp="1522120554007">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="48" column="19" />
+        <mark key="^" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/game_job_status.rb" timestamp="1519208932910">
+        <mark key="[" line="7" column="94" />
+        <mark key="]" line="7" column="93" />
+        <mark key="^" line="7" column="93" />
+        <mark key="." line="7" column="93" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/upload_asset_environment.rb" timestamp="1518622367593">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="30" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/amazon_s3_client.yml.erb" timestamp="1519133385277">
+        <mark key="[" line="3" column="77" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/s3.yml" timestamp="1518004909763">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_announcements/index_import_histories.html.haml" timestamp="1517821389710">
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/gmtool_api/v2/asset_deployment_states/show_latest.jbuilder" timestamp="1524130096472">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/asset_managements_cotroller.rb" timestamp="1512129986804">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_asset_revisions/confirm.html.haml" timestamp="1518090314072">
+        <mark key="[" line="3" column="113" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcement/downloader.rb" timestamp="1517829192827">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/achievement_prizes_controller.rb" timestamp="1506409346568">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test/amazon_s3_client.yml.erb" timestamp="1519133651874">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/login_bonus_w.rb" timestamp="1523007453176">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="105" />
+        <mark key="^" line="75" column="104" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/www_asset_deploys_controller.rb" timestamp="1519209189875">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_service/sqs.yml.erb" timestamp="1518936359655">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/juyondai/.gitmodules" timestamp="1509025900962">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/game_developer_iam_client.yml" timestamp="1518610378113">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/typed_csv_parser.rb" timestamp="1525855525953">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/sqs.yml.erb" timestamp="1518779372992">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/amazon_s3_client.yml.erb" timestamp="1518939773802">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/login_bonuses/edit.html.haml" timestamp="1523014515749">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_announcements_controller.rb" timestamp="1525780294122">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/renderer_templates/seikimatsu_days/announcement/image_template.txt" timestamp="1519187784661">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/script/announcement_api_benchmark.rb" timestamp="1525159486124">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="54" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/data_migration_environment.rb" timestamp="1513766548324">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/announcement/get_announcements.json" timestamp="1522214363775">
+        <mark key="[" line="23" column="124" />
+        <mark key="]" line="23" column="125" />
+        <mark key="." line="23" column="125" />
+        <mark key="^" line="23" column="125" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/okta/companies_controller.rb" timestamp="1513055689785">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/aoitsuru/app/controllers/v1/inventories_controller.rb" timestamp="1508945498692">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_aws_manager.rb" timestamp="1512707777272">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/credential" timestamp="1513167217659">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="64" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/config/applications/settings.yml.erb" timestamp="1524733146374">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/seikimatsu-days/announcements/index.html.haml" timestamp="1518701575934">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/sakasho-settings/config/development/sns_linkage_settings.yml" timestamp="1516950646238">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/sqs.yml.erb" timestamp="1518936410488">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/amazon_s3_client.yml" timestamp="1501758496405">
+        <mark key="[" line="2" column="62" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="62" />
+        <mark key="^" line="2" column="62" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/asset_revisions/_www_asset_deploy.html.haml" timestamp="1519210470331">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="7" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/cs/violation_reports/index.html.haml" timestamp="1503387122216">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="46" />
+        <mark key="^" line="33" column="46" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/asset_deploy_job.rb" timestamp="1514372258606">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcment/environment.rb" timestamp="1517474842502">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="80" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_sandbox/sns_linkage_settings.yml.erb" timestamp="1516947471999">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/settings.rb" timestamp="1519154994634">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="52" column="27" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_sandbox/settings.yml.erb" timestamp="1518686789156">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/shichihonyari_app/script/setup/setup_local_settings.sh" timestamp="1513680780342">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/game_developer_s3_client.yml.erb" timestamp="1522401851960">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/restore_history.rb" timestamp="1525227089017">
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="33" />
+        <mark key="^" line="50" column="33" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_service/s3.yml" timestamp="1519187177229">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/asset_revisions/index.html.haml" timestamp="1519638662626">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/bbs/v1/guilds.rb" timestamp="1511186039130">
+        <mark key="[" line="100" column="47" />
+        <mark key="]" line="100" column="52" />
+        <mark key="." line="100" column="52" />
+        <mark key="^" line="100" column="52" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/data_migration_managements_controller.rb" timestamp="1526033405083">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
+        <mark key="^" line="68" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test_sandbox/sqs_queue.yml" timestamp="1519211957840">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_doc_deploy/api_doc_deploy.sh" timestamp="1524660031639">
+        <mark key="[" line="32" column="40" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/helpers/sidebar_helper.rb" timestamp="1523613502815">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="40" column="29" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/iam/client.rb" timestamp="1519132486685">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/script/setup/setup_settings.sh" timestamp="1519199610651">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="58" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/create_company_buckets.rake" timestamp="1512133554926">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/asset_util.rb" timestamp="1524489293613">
+        <mark key="[" line="145" column="8" />
+        <mark key="]" line="145" column="8" />
+        <mark key="." line="145" column="8" />
+        <mark key="^" line="145" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/announcement_previews_controller.rb" timestamp="1524556599737">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="53" column="8" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/config/vgr_mo/deadlock_test_settings.yml" timestamp="1510572802508">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/asset_deployment_states_controller.rb" timestamp="1524813798317">
+        <mark key="[" line="10" column="60" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/models/seikimatsu_days/announcement/image_url_builder.rb" timestamp="1519298423059">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="8" column="45" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/asset_deploy_stop_notification.rake" timestamp="1504164699576">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_synchronizer.rb" timestamp="1519359424256">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/sns_linkage_settings.yml.erb" timestamp="1516947648416">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/routes.rb" timestamp="1525164131017">
+        <mark key="[" line="1347" column="49" />
+        <mark key="]" line="1347" column="49" />
+        <mark key="^" line="1347" column="42" />
+        <mark key="." line="1347" column="49" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/v2_announcements/show.html.haml" timestamp="1518514796089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/settings.yml.erb" timestamp="1518686753756">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/errors.rb" timestamp="1525160543709">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="41" column="3" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/s3_restore_data_settings.yml" timestamp="1502257190878">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="60" column="30" />
+        <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_categories.schema" timestamp="1517922210732">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/factories/asset_deployment_result.rb" timestamp="1525227824251">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/juyondai/lib/inventory_id_converter.rb" timestamp="1508966809632">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/company_specific_settings.yml" timestamp="1518783896971">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/sqs/static_asset_deploy.yml" timestamp="1513072077124">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="22" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/test_data/inventories.json" timestamp="1507290852237">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/www_asset_deploy_job.rb" timestamp="1519210883303">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_service/game_developer_iam_client.yml.erb" timestamp="1519133811404">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="72" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sqs.yml.erb" timestamp="1519310662580">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="5" column="21" />
+      </file>
+      <file name="/Ruby Console" timestamp="1526020759732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/renderer" timestamp="1519140111592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/client.rb" timestamp="1519131048086">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="15" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/api.rb" timestamp="1514456153734">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="104" column="24" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/scripts/vgr_mo_deadlock_test.rb" timestamp="1503659695534">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/ItemSetSetter.rb" timestamp="1507291697256">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="111" column="11" />
+        <mark key="." line="112" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/renderer_templates/seikimatsu_days/announcement/float_l_image_template.txt" timestamp="1519155835668">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/aoitsuru/app/models/player.rb" timestamp="1508937683463">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/slack.rb" timestamp="1504059818013">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/yami/league/v1/leagues.rb" timestamp="1511191184228">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="79" />
+        <mark key="^" line="42" column="34" />
+        <mark key="." line="42" column="34" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/sqs.yml.erb" timestamp="1518779453421">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/data_migration_util/comparer.rb" timestamp="1526012509213" />
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_deployment_states/show_latest.yml" timestamp="1524480254935">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/logger_util.rb" timestamp="1523875569788">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/decadent/announcements/index.html.haml" timestamp="1518701203451">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+        <mark key="^" line="43" column="29" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/amazon_s3_client.yml.erb" timestamp="1524811981191">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_service/sns_linkage_settings.yml.erb" timestamp="1516947605685">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/company_specific_settings.yml" timestamp="1519615752465">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/multi_player_inventories_settings/_detail.html.haml" timestamp="1503390001941">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/settings.yml.erb" timestamp="1518610998856">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/amazon_s3_client.yml.erb" timestamp="1519133639376">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/player.rb" timestamp="1523612182330">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/upload_asset]_environment.rb" timestamp="1518178110459">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1526368066120">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/sns_linkage_settings.yml.erb" timestamp="1516947420233">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/game_developer_iam_client.yml.erb" timestamp="1519132701278">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_service/sns_linkage_settings.yml.erb" timestamp="1516947456848">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/shichihonyari_app/shichihonyari.rb" timestamp="1521114954501">
+        <mark key="[" line="124" column="69" />
+        <mark key="]" line="124" column="48" />
+        <mark key="." line="124" column="48" />
+        <mark key="^" line="124" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/models/announcement_content_image_url_builder.rb" timestamp="1519293501448">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_synced_game.rb" timestamp="1513250099565">
+        <mark key="[" line="17" column="84" />
+        <mark key="]" line="17" column="76" />
+        <mark key="^" line="17" column="76" />
+        <mark key="." line="17" column="76" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/shard/v2_player_announcement_read_histories.schema" timestamp="1517915268443">
+        <mark key="[" line="8" column="155" />
+        <mark key="]" line="8" column="155" />
+        <mark key="." line="8" column="155" />
+        <mark key="^" line="8" column="116" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/asset_deployment_job.rb" timestamp="1525936602070">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/gmtool_api/v2/asset_revisions_controller_spec.rb" timestamp="1525186758926">
+        <mark key="[" line="135" column="25" />
+        <mark key="]" line="135" column="28" />
+        <mark key="^" line="135" column="28" />
+        <mark key="." line="135" column="28" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/old_asset_cleaner.rb" timestamp="1516354955982">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+        <mark key="^" line="5" column="58" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/data_migration_util/environment.rb" timestamp="1517822552174">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="91" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/vgr/multiplay/v1/multiplay_data.rb" timestamp="1504874647513">
+        <mark key="[" line="29" column="100" />
+        <mark key="]" line="29" column="127" />
+        <mark key="^" line="29" column="127" />
+        <mark key="." line="29" column="127" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/InventoriesSetter.rb" timestamp="1507610400510">
+        <mark key="[" line="141" column="26" />
+        <mark key="]" line="141" column="25" />
+        <mark key="^" line="141" column="25" />
+        <mark key="." line="141" column="25" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/okta_controller.rb" timestamp="1518692101847">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/juyondai/README.md" timestamp="1509023918838">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/README.md" timestamp="1509114046166">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="5" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_announcements/index.html.haml" timestamp="1519289777214">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="14" />
+        <mark key="." line="24" column="14" />
+        <mark key="^" line="24" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test/settings.yml.erb" timestamp="1518686886544">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/NewDataMigrator_old.rb" timestamp="1510800333953">
+        <mark key="[" line="88" column="45" />
+        <mark key="]" line="88" column="45" />
+        <mark key="." line="88" column="45" />
+        <mark key="^" line="88" column="45" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/NewDataMigrator.rb" timestamp="1510821949197">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="47" column="43" />
+        <mark key="^" line="109" column="31" />
+        <mark key="." line="109" column="31" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/models/restore_history_spec.rb" timestamp="1525227808744">
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/asset_revision.rake" timestamp="1516692161089">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/s3.yml" timestamp="1519187120285">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="77" />
+        <mark key="." line="2" column="77" />
+        <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_aws_credential.rb" timestamp="1522666319480">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/sss/v1/debug_logins.rb" timestamp="1525237023035">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/factories/asset_deploy_error.rb" timestamp="1504842193752">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_service/unicorn.yml" timestamp="1506347891840">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/settings.yml.erb" timestamp="1518686863825">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/locales/views/ja.yml" timestamp="1526265478557" />
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/yami/group_cleaner.rb" timestamp="1516359025114">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="73" column="46" />
+        <mark key="^" line="7" column="91" />
+        <mark key="." line="7" column="91" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/test_data/item_set.json" timestamp="1507290840782">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/amazon_s3_client.yml.erb" timestamp="1519133350792">
+        <mark key="[" line="3" column="77" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/multi_player_inventories_settings/index.html.haml" timestamp="1503389755606">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="60" />
+        <mark key="." line="18" column="60" />
+        <mark key="^" line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sqs/static_asset_deploy.yml" timestamp="1513072048790">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/ope/game_setting/ranking_scorers_controller_spec.rb" timestamp="1515590503716">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="13" column="56" />
+        <mark key="^" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/v2_announcement.rb" timestamp="1518594537772">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/data_migration_base.rb" timestamp="1526375400330">
+        <mark key="[" line="466" column="0" />
+        <mark key="]" line="466" column="0" />
+        <mark key="." line="466" column="0" />
+        <mark key="^" line="291" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/Gemfile" timestamp="1504248474468">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/ope/game_setting/achievement_prizes_controller_spec.rb" timestamp="1506409924496">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="153" column="83" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/push_notifications/new.html.haml" timestamp="1511267461290">
+        <mark key="[" line="63" column="90" />
+        <mark key="]" line="63" column="90" />
+        <mark key="^" line="63" column="90" />
+        <mark key="." line="63" column="90" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/sandbox/sqs_queue.yml" timestamp="1519211913983">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_service/amazon_s3_client.yml.erb" timestamp="1519133375361">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/s3_restore_data_settings.rb" timestamp="1501505688388">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="58" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/amazon_s3_client.yml.erb" timestamp="1519133343802">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/renderer_templates/seikimatsu_days/announcement/float_l_template.txt" timestamp="1519148248983">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="90" />
+        <mark key="^" line="0" column="90" />
+        <mark key="." line="0" column="90" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_import_histories" timestamp="1517223846625">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="31" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/push_notifications/manual_helpdoc.md" timestamp="1511267943226">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="96" column="85" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="53" column="84" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/models/seikimatsu_days/announcement/content_renderer.rb" timestamp="1519297809038">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="24" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/caluculate_hash.rb" timestamp="1517387188937">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_revision_state_switcher.rb" timestamp="1516257772886">
+        <mark key="[" line="18" column="84" />
+        <mark key="]" line="18" column="90" />
+        <mark key="^" line="18" column="90" />
+        <mark key="." line="18" column="90" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/render_templates/seikimatu_days/announcement/heading_template" timestamp="1519140246117">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcements.schema" timestamp="1518691713675">
+        <mark key="[" line="3" column="85" />
+        <mark key="]" line="3" column="85" />
+        <mark key="." line="3" column="85" />
+        <mark key="^" line="3" column="84" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/settings.yml.erb" timestamp="1518686806052">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/development_sandbox/game_developer_aws_client.yml.erb" timestamp="1518004224386">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_revisions/update.yml" timestamp="1525758948905">
+        <mark key="[" line="20" column="180" />
+        <mark key="]" line="20" column="203" />
+        <mark key="^" line="20" column="203" />
+        <mark key="." line="20" column="203" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/straw/gvgs_controller.rb" timestamp="1525858434048">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="49" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/sandbox_free_texts/show.html.haml" timestamp="1503388069802">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="37" />
+        <mark key="." line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/zip_file.rb" timestamp="1525862851038">
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="67" />
+        <mark key="^" line="21" column="67" />
+        <mark key="." line="21" column="67" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/game_developer_s3.yml" timestamp="1518446022037">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="30" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/helpers/seikimatsu_days/announcements_helper.rb" timestamp="1518956797410">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+      </file>
+      <file name="$USER_HOME$/fun_table/config/application.yml" timestamp="1521971242341">
+        <mark key="[" line="1" column="154" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/seikimatsu-days/announcements_controller.rb" timestamp="1518701279801">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/settings.yml.erb" timestamp="1520400195843">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/free_texts/show.html.haml" timestamp="1503389057910">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/aoitsuru/app/models/player_inventory.rb" timestamp="1508942236079">
+        <mark key="[" line="60" column="5" />
+        <mark key="]" line="62" column="8" />
+        <mark key="^" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_announcements/import_form.html.haml" timestamp="1523010100948">
+        <mark key="[" line="29" column="116" />
+        <mark key="]" line="29" column="117" />
+        <mark key="^" line="29" column="117" />
+        <mark key="." line="29" column="117" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/seikimatsu_days/announcements_controller.rb" timestamp="1525142811248">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="125" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_import_histories.schema" timestamp="1517922204400">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="24" column="58" />
+        <mark key="." line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/static_asset_deployment_job.rb" timestamp="1519209725026">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="35" column="97" />
+        <mark key="^" line="35" column="97" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/bbs/v1/guilds/delete_guild_member_data_by_player_ids.rb" timestamp="1511185095915">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="78" />
+        <mark key="^" line="6" column="78" />
+        <mark key="." line="6" column="78" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_asset_revisions/show.html.haml" timestamp="1518091110680">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="11" column="8" />
+        <mark key="." line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/slack.yml" timestamp="1504165999237">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/sns_linkage_settings.yml.erb" timestamp="1516947664121">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_contents.schema" timestamp="1517984511916">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="48" column="51" />
+        <mark key="^" line="48" column="51" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/lib/sakasho/model/config.rb" timestamp="1518968863614">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/sqs.yml.erb" timestamp="1518779366720">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_sandbox/sns_linkage_settings.yml.erb" timestamp="1516947361732">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/jobs/restore_job_spec.rb" timestamp="1502086277109">
+        <mark key="[" line="91" column="59" />
+        <mark key="]" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="^" line="91" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/models/yami/group_spec.rb" timestamp="1511949592079">
+        <mark key="[" line="89" column="10" />
+        <mark key="]" line="89" column="15" />
+        <mark key="." line="89" column="15" />
+        <mark key="^" line="89" column="15" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/static_asset_deploy.yml" timestamp="1513689288768">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" timestamp="1526370471426">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2/asset_revisions/index.html.haml" timestamp="1513076934630">
+        <mark key="[" line="1" column="143" />
+        <mark key="]" line="1" column="83" />
+        <mark key="." line="1" column="83" />
+        <mark key="^" line="1" column="83" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/deadlock_test.rb" timestamp="1510567396662">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="141" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/data_migration_managements/show.html.haml" timestamp="1501769612409">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="42" column="24" />
+        <mark key="^" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/data_migration_util/restorer.rb" timestamp="1526375892966">
+        <mark key="[" line="48" column="14" />
+        <mark key="]" line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/virtual_currency_transaction_history_r.rb" timestamp="1515650548417">
+        <mark key="[" line="4" column="91" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev4_service/sqs.yml.erb" timestamp="1518782814590">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/ranking_scorer_redis.rb" timestamp="1515748413455">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/s3_asset_cleaner.rb" timestamp="1516685259028">
+        <mark key="[" line="2" column="56" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/asset_revisions_controller.rb" timestamp="1525917364543">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/achievement_prizes/manual_helpdoc.md" timestamp="1506421083321">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/spec/controllers/player/v1/campaigns_spec.rb" timestamp="1518775498485">
+        <mark key="[" line="300" column="22" />
+        <mark key="]" line="300" column="21" />
+        <mark key="^" line="300" column="21" />
+        <mark key="." line="300" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/sqs.yml.erb" timestamp="1518779385275">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/shichihonyari_app/script/setup/setup_settings.sh" timestamp="1519201914483">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/config/vgr_mo_deadlock_test_settings.yml" timestamp="1505461773775">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/sns_linkage_settings.yml.erb" timestamp="1516947387608">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/v2_announcements/index.html.haml" timestamp="1518514782757">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/models/seikimatsu_days/content_renderer.rb" timestamp="1519152963682">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/juyondai/script/setup/setup_settings.sh" timestamp="1509025405552">
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_service/s3.yml" timestamp="1519187126135">
+        <mark key="[" line="2" column="77" />
+        <mark key="]" line="2" column="77" />
+        <mark key="." line="2" column="77" />
+        <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/spec/json_schemas/information/_announcement.schema.json" timestamp="1522121422474">
+        <mark key="[" line="39" column="55" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/upload_amazon_s3.yml" timestamp="1512462000861">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/seikimatsu_days/announcements/detail.html.haml" timestamp="1518966495373">
+        <mark key="[" line="21" column="114" />
+        <mark key="]" line="21" column="113" />
+        <mark key="^" line="21" column="113" />
+        <mark key="." line="21" column="113" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/data_migration_controller.rb" timestamp="1525938414037">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test_sandbox/amazon_s3_client.yml.erb" timestamp="1519133657741">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/.gitignore" timestamp="1518937306464">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_s3_manager.rb" timestamp="1519133163119">
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="30" />
+        <mark key="^" line="36" column="27" />
+        <mark key="." line="57" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/seikimatsu_days/announcements/show.html.haml" timestamp="1519153946286">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/asset_deployment_histories.schema" timestamp="1516257594903">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/my_script/generate_achievement_files.rb" timestamp="1506566743634">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/development_sandbox/sqs_queue.yml" timestamp="1519211899264">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/amazon_sns_setting_w.rb" timestamp="1526018962415" />
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/restore_job.rb" timestamp="1526023762227">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="33" />
+        <mark key="." line="84" column="33" />
+        <mark key="^" line="84" column="33" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/asset_controller.rb" timestamp="1522239699887">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/Gemfile.lock" timestamp="1505881551349">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/helpers/announcement_helper.rb" timestamp="1518769528218">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/sakasho-settings/config/development/amazon_s3_client.yml.erb" timestamp="1518777043683">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/2.4.0/net/protocol.rb" timestamp="1506076234060">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="48" />
+        <mark key="^" line="43" column="48" />
+        <mark key="." line="43" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/accounts/local.json" timestamp="1510734248908">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/aoitsuru/lib/Inventory_id_converter.rb" timestamp="1508944279645">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/comeback_login_bonus_requirement_w.rb" timestamp="1523015915503">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="43" />
+        <mark key="^" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/s3_asset_cleaner/unavailable_asset_deleter.rb" timestamp="1518775938977">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="33" />
+        <mark key="." line="37" column="33" />
+        <mark key="^" line="13" column="95" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_iam.rb" timestamp="1512655461512">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/settings.yml.erb" timestamp="1518619881158">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_doc_deploy/Gemfile" timestamp="1524659541316">
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sandbox/game_developer_s3_client.yml.erb" timestamp="1522401842917">
+        <mark key="[" line="1" column="70" />
+        <mark key="]" line="1" column="68" />
+        <mark key="^" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/game/asset_deploy_errors.schema" timestamp="1504784005638">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="80" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="6" column="80" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/juyondai/script/setup/setup_local_settings.sh" timestamp="1509025394849">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="^" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/client.rb" timestamp="1506344502010">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/create_company_s3_buckets.rake" timestamp="1512133627051">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/settings.yml.erb" timestamp="1522642920919">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/yami/leagues/index.html.haml" timestamp="1515572431461">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="6" />
+        <mark key="^" line="24" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/game.rb" timestamp="1518783691393">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+        <mark key="^" line="26" column="44" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/bne_accounts/_form.html.haml" timestamp="1503397537258">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="29" column="69" />
+        <mark key="." line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/db/multidb_migrate/20141204132222_add_default_value_at_platform_currency_code.rb" timestamp="1523865310770">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/sqs_queue.yml" timestamp="1519211925783">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/public/seikimatsu_days/info.css" timestamp="1518703202255">
+        <mark key="[" line="113" column="29" />
+        <mark key="]" line="113" column="29" />
+        <mark key="^" line="113" column="24" />
+        <mark key="." line="113" column="29" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/script/vgr_mo_deadlock_test.rb" timestamp="1505204248755">
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="59" />
+        <mark key="^" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/extract2.rb" timestamp="1511953666930">
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="66" />
+        <mark key="^" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/scenario.rb" timestamp="1505390531166">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/players_test.csv" timestamp="1511942833499">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/v2_announcements_controller.rb" timestamp="1518516750308">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/models/yami/group_cleaner_spec.rb" timestamp="1506397873895">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="21" column="93" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/controllers/information/v2/informations.rb" timestamp="1524565243454">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="12" />
+        <mark key="^" line="37" column="37" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/gmtool_api/v2/asset_deployment_state_controller_spec.rb" timestamp="1525186013904">
+        <mark key="[" line="108" column="41" />
+        <mark key="]" line="108" column="41" />
+        <mark key="." line="108" column="41" />
+        <mark key="^" line="107" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/achievement_prize_w.rb" timestamp="1506406119008">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/lib/kirinzan/amazon/s3_spec.rb" timestamp="1504836886467">
+        <mark key="[" line="147" column="47" />
+        <mark key="]" line="147" column="47" />
+        <mark key="." line="147" column="47" />
+        <mark key="^" line="147" column="47" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/sandbox_free_texts/_free_texts.html.haml" timestamp="1503388693396">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/script/daemon_test.rb" timestamp="1505194574817">
+        <mark key="[" line="90" column="6" />
+        <mark key="]" line="90" column="7" />
+        <mark key="^" line="90" column="7" />
+        <mark key="." line="90" column="7" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/applications/company_specific_settings.yml" timestamp="1505992049893">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test/s3.yml" timestamp="1519187232149">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/views/decadent/announcements/_announcement_item.html.haml" timestamp="1518529857264">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="46" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/test_data/test.json" timestamp="1510820830048">
+        <mark key="[" line="287" column="39" />
+        <mark key="]" line="287" column="40" />
+        <mark key="." line="287" column="40" />
+        <mark key="^" line="287" column="40" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/locales/translation_ja_game.yml" timestamp="1523011209387">
+        <mark key="[" line="1372" column="8" />
+        <mark key="]" line="1372" column="9" />
+        <mark key="^" line="1372" column="9" />
+        <mark key="." line="1372" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_service/game_developer_s3_client.yml.erb" timestamp="1518611959327">
+        <mark key="[" line="2" column="68" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_s3_set_upper.rb" timestamp="1512472817290">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/sqs.yml" timestamp="1522643129690">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_service/settings.yml.erb" timestamp="1518619864374">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/script/setup/setup_local_settings.sh" timestamp="1511782520101">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_sandbox/settings.yml.erb" timestamp="1518686772131">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/yami/league_settings.rb" timestamp="1501502125993">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/models/inquiry.rb" timestamp="1512540780780">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/database.yml.erb" timestamp="1505901667237">
+        <mark key="[" line="234" column="24" />
+        <mark key="]" line="234" column="24" />
+        <mark key="." line="234" column="24" />
+        <mark key="^" line="234" column="24" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/spec/factories/asset_deployment_state.rb" timestamp="1525227836700">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev_service/amazon_s3_client.yml.erb" timestamp="1519133391654">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_copy_request.rb" timestamp="1513250082633">
+        <mark key="[" line="18" column="81" />
+        <mark key="]" line="18" column="73" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="73" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/assets_cotroller.rb" timestamp="1512131340270">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/script/attack_test.rb" timestamp="1506056545714">
+        <mark key="[" line="12" column="101" />
+        <mark key="]" line="12" column="94" />
+        <mark key="." line="12" column="94" />
+        <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/config/vgr_mo/environment_configs.yml" timestamp="1510572378900">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/service/sqs.yml.erb" timestamp="1518779458390">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/SakashoTools/test_data/aaaa.json" timestamp="1507290824289">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/README.md" timestamp="1506348923494">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/aoitsuru/lib/inventory_id_converter.rb" timestamp="1508961333784">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="5" column="96" />
+        <mark key="." line="5" column="96" />
+        <mark key="^" line="5" column="96" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_deployment_state.rb" timestamp="1520399704787">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/daemon/vgr_mo_deadlock_test_daemon.rb" timestamp="1507023466967">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="6" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="55" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/db_schema/common/company_aws_credentials.schema" timestamp="1512553654823">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2/asset_revisions_controller.rb" timestamp="1514372288421">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/applications/application.yml" timestamp="1524736376674">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/version.txt" timestamp="1524655593634">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/script/v2_dump_restore_benchmark.rb" timestamp="1525937834962">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="33" column="44" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="11" column="2" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/Gemfile" timestamp="1519304006291">
+        <mark key="[" line="109" column="95" />
+        <mark key="]" line="109" column="31" />
+        <mark key="." line="109" column="31" />
+        <mark key="^" line="109" column="30" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/yami/leagues/show_grade.html.haml" timestamp="1515640462651">
+        <mark key="[" line="38" column="48" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/layouts/ope.html.haml" timestamp="1523010283933">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/.gitignore" timestamp="1506071777058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/sakasho_sdk_required_version.rb" timestamp="1526375385127">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="48" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/views/okta/cs/violation_reports/show.html.haml" timestamp="1503386939145">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev3_service/s3.yml" timestamp="1519187154503">
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="87" />
+        <mark key="." line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/app/views/information/v2/_announcement.jbuilder" timestamp="1522120955486">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+        <mark key="^" line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcement/environment.rb" timestamp="1518584267701">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/config/applications/s3.yml" timestamp="1519192151555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/achievement_prize.rb" timestamp="1506582116123">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/zip_file_upload_form.rb" timestamp="1525857421128">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/daemon/vgr_mo_dealock_test_daemon.rb" timestamp="1505289912188">
+        <mark key="[" line="53" column="41" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sqs_queue.yml" timestamp="1519209350065">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/extract.rb" timestamp="1507095853595">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_revisions/switch_latest_revision_to_downloadable.yml" timestamp="1524480312358">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/turmeric/app/helpers/seikimatsu_days/announcements_controller.rb" timestamp="1518956502747">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/api_load_test/config/vgr_mo_deadlock_test.yml" timestamp="1503662128850">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-api/spec/controllers/bbs/v1/guilds/put_guild_member_data_controller_spec.rb" timestamp="1511191471762">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="44" column="22" />
+        <mark key="^" line="44" column="17" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/sakasho-settings/config/test_sandbox/s3.yml" timestamp="1519187239259">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/lib/tasks/multi_player_inventories.rake" timestamp="1503031281117">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/jpr/sakasho/kirinzan/app/models/v2_company_announcement_category.rb" timestamp="1519279945785">
+        <mark key="[" line="6" column="80" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/inct07/kawaiii-jp/log/production.log" />
+      <jump line="317" column="0" filename="$USER_HOME$/inct07/kawaiii-jp/log/production.log" />
+      <jump line="21" column="14" filename="$USER_HOME$/inct07/kawaiii-jp/.gitignore" />
+      <jump line="8" column="24" filename="$USER_HOME$/inct07/kawaiii-jp/app/controllers/mypage/favorite_images_controller.rb" />
+      <jump line="11" column="51" filename="$USER_HOME$/inct07/kawaiii-jp/lib/tasks/daily/get_latest_image_paths.rake" />
+      <jump line="0" column="0" filename="$USER_HOME$/inct07/kawaiii-jp/lib/tasks/daily/get_latest_image_paths.rake" />
+      <jump line="17" column="0" filename="$USER_HOME$/inct07/kawaiii-jp/lib/tasks/daily/get_latest_image_paths.rake" />
+      <jump line="26" column="30" filename="$USER_HOME$/inct07/kawaiii-jp/lib/google_custom_search.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/inct07/kawaiii-jp/config/deploy.rb" />
+      <jump line="13" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/amazon_sqs_setting.rb" />
+      <jump line="6" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/static_asset_deploy_job.rb" />
+      <jump line="5" column="19" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/models/concerns/amazon_sqs_setting.rb" />
+      <jump line="2" column="2" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/static_asset_deploy_job.rb" />
+      <jump line="3" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/static_asset_deploy_job.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/league/leave_group.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/guild/leave_guild.json" />
+      <jump line="82" column="10" filename="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/league/get_group_member.json" />
+      <jump line="1366" column="43" filename="$USER_HOME$/jpr/sakasho/sakasho-api/spec/fake_app.rb" />
+      <jump line="14" column="10" filename="$USER_HOME$/jpr/sakasho/sakasho-api/app/models/yami/grade.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/sakasho-api/app/models/yami/grade.rb" />
+      <jump line="1" column="2" filename="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/yami/league/join_group.json" />
+      <jump line="2" column="2" filename="$USER_HOME$/jpr/sakasho/okunokami/script/ruby/config/spec_json/yami/league/join_group.json" />
+      <jump line="6" column="74" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_deploy_stop_notifier.rb" />
+      <jump line="9" column="40" filename="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/google_drive_client.rb" />
+      <jump line="34" column="16" filename="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/deadlock_test.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/deadlock_test.rb" />
+      <jump line="91" column="26" filename="$USER_HOME$/jpr/sakasho/api_load_test/lib/vgr_mo/battle_scenario.rb" />
+      <jump line="17" column="10" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/achievement_prizes/index.html.haml" />
+      <jump line="29" column="57" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/achievement_prizes/index.html.haml" />
+      <jump line="19252" column="23" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/players_test.csv" />
+      <jump line="19201" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/players_test.csv" />
+      <jump line="3" column="9" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/players_test.csv" />
+      <jump line="7" column="9" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/players_test.csv" />
+      <jump line="59" column="4" filename="$USER_HOME$/jpr/sakasho/SakashoTools/NewDataMigration.rb" />
+      <jump line="21" column="0" filename="$USER_HOME$/jpr/sakasho/sakasho-api/spec/controllers/bbs/v1/guilds/delete_guild_member_data_controller_spec.rb" />
+      <jump line="2" column="7" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/test_players.csv" />
+      <jump line="132794" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/test_players.csv" />
+      <jump line="13" column="7" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/test_players.csv" />
+      <jump line="28" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/birthday_extraction/extraction2.rb" />
+      <jump line="56" column="5" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/assets/index.html.haml" />
+      <jump line="19" column="45" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/models/company_s3_manager.rb" />
+      <jump line="4" column="35" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sqs.yml.erb" />
+      <jump line="8" column="2" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/production/sqs.yml.erb" />
+      <jump line="11" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/asset_deploy_job.rb" />
+      <jump line="33" column="3" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/jobs/asset_deploy_job.rb" />
+      <jump line="53" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/routes.rb" />
+      <jump line="5" column="3" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/routes.rb" />
+      <jump line="161" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/asset_revisions_controller.rb" />
+      <jump line="205" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/asset_revisions_controller.rb" />
+      <jump line="41" column="17" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_asset_revisions/new.html.haml" />
+      <jump line="9" column="37" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/yami/leagues_controller.rb" />
+      <jump line="8" column="2" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/yami/leagues_controller.rb" />
+      <jump line="13" column="12" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/yami/leagues_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/yami/leagues_controller.rb" />
+      <jump line="73" column="24" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/asset_revisions_controller.rb" />
+      <jump line="3" column="42" filename="$USER_HOME$/jpr/sakasho/db_schema/game/asset_deployment_states.schema" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/db_schema/game/asset_deployment_states.schema" />
+      <jump line="20" column="19" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/models/asset_revision_state_switcher.rb" />
+      <jump line="43" column="89" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/views/ope/game_setting/v2_asset_revisions/new.html.haml" />
+      <jump line="12" column="29" filename="$USER_HOME$/jpr/sakasho/db_schema/game/v2_announcement_import_histories" />
+      <jump line="17" column="3" filename="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcement/uploader.rb" />
+      <jump line="15" column="94" filename="$USER_HOME$/jpr/sakasho/kirinzan/lib/kirinzan/amazon/s3/v2_announcement/uploader.rb" />
+      <jump line="175" column="126" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_asset_revisions_controller.rb" />
+      <jump line="178" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_asset_revisions_controller.rb" />
+      <jump line="1257" column="10" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/locales/translation_ja_game.yml" />
+      <jump line="1218" column="8" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/locales/translation_ja_game.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/turmeric/public/seikimatsu_days/info.min.css" />
+      <jump line="13" column="48" filename="$USER_HOME$/jpr/sakasho/turmeric/app/views/seikimatsu_days/announcements/index.html.haml" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/turmeric/app/views/seikimatsu_days/announcements/index.html.haml" />
+      <jump line="33" column="31" filename="$USER_HOME$/jpr/sakasho/turmeric/app/models/seikimatsu_days/content_converter.rb" />
+      <jump line="32" column="8" filename="$USER_HOME$/jpr/sakasho/turmeric/app/models/seikimatsu_days/content_converter.rb" />
+      <jump line="3" column="11" filename="$USER_HOME$/jpr/sakasho/turmeric/test.rb" />
+      <jump line="13" column="2" filename="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/s3.yml" />
+      <jump line="2" column="83" filename="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/s3.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/sakasho-settings/config/dev2_sandbox/s3.yml" />
+      <jump line="32" column="7" filename="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/seikimatsu_days/announcements_controller.rb" />
+      <jump line="65" column="0" filename="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/seikimatsu_days/announcements_controller.rb" />
+      <jump line="50" column="47" filename="$USER_HOME$/jpr/sakasho/turmeric/app/controllers/seikimatsu_days/announcements_controller.rb" />
+      <jump line="74" column="46" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/json_schemas/game_data_exchanger/v2_announcement/data.json" />
+      <jump line="66" column="47" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/json_schemas/game_data_exchanger/v2_announcement/data.json" />
+      <jump line="47" column="10" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/json_schemas/game_data_exchanger/v2_announcement/data.json" />
+      <jump line="23" column="14" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/data_migration_controller.rb" />
+      <jump line="34" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/gmtool_api/v2/data_migration_controller.rb" />
+      <jump line="127" column="8" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_asset_revisions_controller.rb" />
+      <jump line="221" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/v2_asset_revisions_controller.rb" />
+      <jump line="14" column="40" filename="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/gmtool_api/v2/asset_revisions_controller_spec.rb" />
+      <jump line="30" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/spec/controllers/gmtool_api/v2/asset_revisions_controller_spec.rb" />
+      <jump line="8" column="37" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_revisions/create.yml" />
+      <jump line="46" column="79" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/login_bonuses_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/app/controllers/ope/game_setting/login_bonuses_controller.rb" />
+      <jump line="58" column="2" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/environments/development.rb" />
+      <jump line="15" column="243" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_revisions/switch_to_downloadable.yml" />
+      <jump line="15" column="1" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_deployment_states/show.yml" />
+      <jump line="25" column="4" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/api/v2_asset_deployment_states/show.yml" />
+      <jump line="92" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" />
+      <jump line="19" column="41" filename="$USER_HOME$/jpr/sakasho/kirinzan/script/v2_dump_restore_benchmark.rb" />
+      <jump line="34" column="9" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" />
+      <jump line="98" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" />
+      <jump line="57" column="0" filename="$USER_HOME$/jpr/sakasho/kirinzan/config/schedule.rb" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="f" type="4">
+        <text>kkkkkkkkkkkkkyyjjjjjjjjjjjjjp</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb25maWdcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDp1cGRhdGUgdGhlbgogICAgICAgICAgICAgICAgbW9kZWwudXBkYXRlX2J5X3Jlc3RvcmUocmVzdG9yZV9hdHRyaWJ1dGVzLCBnYW1lKQogICAgICAgICAgICAgICAgdmFsaWRhdGlvbl9lcnJvcnNbdGFibGVfbmFtZV1bYWN0aW9uXSA9IHJlc3VsdCBpZiByZXN1bHQucHJlc2VudD8K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gQmVuY2htYXJrLnJlYWx0aW1lIGRvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnICIje2FjdGlvbn1fI3t0YWJsZV9uYW1lfV9yZXN1bHQ6ICN7cmVzdWx0fSIK</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9IG1vZGVsLnNlbmQoIiN7YWN0aW9ufV9ieV9yZXN0b3JlIiwgcmVzdG9yZV9hdHRyaWJ1dGVzLCBnYW1lKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBlbHNlCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aGVuIDogdGhlbgogICAgICAgICAgICAgICAgbW9kZWwuZGVsZXRlX2J5X3Jlc3RvcmUocmVzdG9yZV9hdHRyaWJ1dGVzKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzZXRcPg==</entry>
+        <entry encoding="base64">XDxqb2JfbmFtZVw+</entry>
+        <entry encoding="base64">XDxxdWV1ZV9hc1w+</entry>
+        <entry encoding="base64">XDxiaW5kaW5nXD4=</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry encoding="base64">XDxTaG9yeXVrZW5cPg==</entry>
+        <entry encoding="base64">XDxGaWxlXD4=</entry>
+        <entry encoding="base64">XDxkXD4=</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>.w</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
